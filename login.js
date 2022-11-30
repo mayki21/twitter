@@ -1,3 +1,6 @@
 let reg_email= "mayank.khobragade9891@gmail.com";
 
-let reg_pass= "123@";
+var password = "";
+for(var i = 0; i <= 10; i++){
+    password = password + i + " ";
+}
